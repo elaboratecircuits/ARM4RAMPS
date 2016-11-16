@@ -26,11 +26,12 @@ The design documents will be released after active shiping.
 
 FRONT SIDE
 
+
 ![alt tag](https://github.com/elaboratecircuits/ARM4RAMPS/blob/master/ARM4RAMPS.PNG)
 
 
 
-ARM4RAMP + EC_RAMPS - STACK
+ARM4RAMPs + EC_RAMPS - STACK
 
 
 
@@ -40,7 +41,7 @@ ARM4RAMP + EC_RAMPS - STACK
 ACTUAL PCB
 
 
-![alt tag](https://github.com/elaboratecircuits/ARM4RAMPS/blob/master/IMG_3414.png)
+![alt tag](https://github.com/elaboratecircuits/ARM4RAMPS/blob/master/ARM4RAMPS_pcb.jpg)
 
 
 
