@@ -27,7 +27,7 @@ The design documents will be released after active shiping.
 FRONT SIDE
 
 
-![alt tag](https://github.com/elaboratecircuits/ARM4RAMPS/blob/master/ARM4RAMPS.PNG)
+![alt tag](https://github.com/elaboratecircuits/ARM4RAMPS/blob/master/ARM4RAMPS.png)
 
 
 
